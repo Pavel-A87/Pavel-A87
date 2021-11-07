@@ -6,9 +6,9 @@
 - my page on [LinkedIn](https://www.linkedin.com/in/pavel-aliakseyenka-9695111ba/)
 
 **My Repos:**<br>
-✨[python_base](https://github.com/Pavel-A87/python_base)✨-semples of my code Python Core<br>
-✨[JavaSE](https://github.com/Pavel-A87/JavaCore)✨-semples of my code Java Core part 1<br>
-✨[SenlaJavaSE](https://github.com/Pavel-A87/SenlaJavaSE)✨-semples of my code Java Core part 2<br>
+✨[python_base](https://github.com/Pavel-A87/python_base)✨-samples of my code Python Core<br>
+✨[JavaSE](https://github.com/Pavel-A87/JavaCore)✨-samples of my code Java Core part 1<br>
+✨[SenlaJavaSE](https://github.com/Pavel-A87/SenlaJavaSE)✨-samples of my code Java Core part 2<br>
 
 **My Salesforce test tasks repos:**<br>
 ✨[VPR_SkyMedProject](https://github.com/Pavel-A87/VPR_SkyMedProject)✨<br>

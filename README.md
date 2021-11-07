@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python/sql/java core
 - 💞️ I’m looking to collaborate on python dev or QA
 - 📫 alensky27@gmail.com
--my page on [LinkedIn](https://www.linkedin.com/in/pavel-aliakseyenka-9695111ba/)
+- my page on [LinkedIn](https://www.linkedin.com/in/pavel-aliakseyenka-9695111ba/)
 
 **My Repos:**<br>
 ✨[python_base](https://github.com/Pavel-A87/python_base)✨-semples of my code Python Core<br>

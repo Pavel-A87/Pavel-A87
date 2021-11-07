@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning python/sql/java core
 - 💞️ I’m looking to collaborate on python dev or QA
 - 📫 alensky27@gmail.com
+<link rel="alternate" type="application/rss+xml" 
+     title="Статьи с сайта htmlbook.ru" href="http://htmlbook.ru/rss.xml"> 
 
 **My Repos:**<br>
-✨*python_base*✨-semples of my code Python Core<br>
+✨*<link title="python_base" href="https://github.com/Pavel-A87/python_base">*✨-semples of my code Python Core<br>
 ✨*SenlaJavaSE*✨-semples of my code Java Core<br>
 
 **My Salesforce test tasks repos:**<br>

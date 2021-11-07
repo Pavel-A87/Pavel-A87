@@ -14,7 +14,7 @@
 ✨[VPR_SkyMedProject](https://github.com/Pavel-A87/VPR_SkyMedProject)✨<br>
 
 **My Manual QA test tasks repos:**<br>
-_✨[qa-academy-test-task](https://github.com/Pavel-A87/qa-academy-test-task)✨<br>_
+✨[qa-academy-test-task](https://github.com/Pavel-A87/qa-academy-test-task)✨<br>
 ✨[Timvero](https://github.com/Pavel-A87/Timvero)✨<br>
 ✨[Scandiweb](https://github.com/Pavel-A87/Scandiweb)✨<br>
 ✨[NeatTech](https://github.com/Pavel-A87/NeatTech)✨<br>
